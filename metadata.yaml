@@ -1,5 +1,8 @@
 _repo: Memoires-de-Celeste-Mogador-Volume-4-of-4_60204
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60204-h/images/cover.jpg
 creator:
   author:
     agent_name: Chabrillan, Céleste Vénard de, comtesse
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/C%C3%A9leste_Mogador
     - https://fr.wikipedia.org/wiki/C%C3%A9leste_Mogador
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60204#Memoires-de-Celeste-Mogador-Volume-4-of-4
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Nouveautés
